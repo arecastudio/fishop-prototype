@@ -9,7 +9,7 @@ const Weekhighlight=()=>{
             </div>
         <div className="item-weekly" >
                 <h3>THIS WEEK'S HIGHLIGHT</h3>
-                <p>
+                <p className="weekly-desc">
                 Good Food brings in Good Talk.
 Enjoy our crunchy Croquettes with your partners in crime 👫
 

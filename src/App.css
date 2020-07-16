@@ -44,15 +44,22 @@
 
 .whighlight{
   margin:40px 0px 20px 0px;
+  text-align: center;
+  border:1px solid black;
 }
 
 .item-weekly{
+  width:400px;
   display: inline-block;
+  margin: 5px;
 }
 
 .img-weekly{
-  width: 400px;
-  border:1px solid gray;
+  width: 300px;
+}
+
+.weekly-desc{
+  text-align: justify;
 }
 
 @media (prefers-reduced-motion: no-preference) {
