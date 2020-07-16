@@ -11,16 +11,13 @@ import './App.css';
 
 import Navtop from './components/Navtop';
 import Home from './components/Home';
-import Collectionlist from './components/Collectionlist';
 
 function App() {
   return (
     <div className="">
       <Navtop/>
       <Home/>
-      <div className="container">
-      <Collectionlist/>  
-      </div>
+      
 
     </div>
   );
