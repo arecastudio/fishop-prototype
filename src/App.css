@@ -43,10 +43,16 @@
 }
 
 .whighlight{
-  display:flex;
-  flex-direction: row;
-  justify-content: center;
-  flex-wrap: wrap;
+  margin:40px 0px 20px 0px;
+}
+
+.item-weekly{
+  display: inline-block;
+}
+
+.img-weekly{
+  width: 400px;
+  border:1px solid gray;
 }
 
 @media (prefers-reduced-motion: no-preference) {
